@@ -1,2 +1,7 @@
-# predictive-emergency-dispatch-IEGS
-Supplementary material for the paper “Predictive Emergency Dispatch of Power System Under Gas Pipeline Leakage Using Local State Evolution,” including dynamic simulation models, control implementation, parameters, and additional results.
+# Supplementary Material
+
+Supplementary material for “Proactive Power System Dispatch Under Gas Pipeline Leakage Using Local Gas Measurements.”
+
+The document provides detailed dynamic models, the large-system topology, the rolling dispatch procedure, and the full dispatch constraints.
+
+[View the supplementary material](Supplementary_materials.pdf)
